@@ -156,6 +156,16 @@ api-cost-compare/
 
 ---
 
+## 生态系统
+
+| Tool | Description |
+|---|---|
+| [model-cost-advisor](https://github.com/minirr890112-byte/model-cost-advisor) | Recommend best LLM by cost |
+| [model-watch](https://github.com/minirr890112-byte/model-watch) | Monitor models for degradation |
+| [prompt-inspector](https://github.com/minirr890112-byte/prompt-inspector) | Scan prompts for censorship triggers |
+| [code-inspector](https://github.com/minirr890112-byte/code-inspector) | AI-generated code quality analysis |
+
+
 ## 许可证
 
 MIT © 2025 minirr890112-byte
