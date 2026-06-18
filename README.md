@@ -1,11 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/ClawHub-downloads-0-blue" alt="ClawHub downloads">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT license">
+</p>
+
 # api-cost-compare
 
-> 对比各大 LLM 提供商 API 定价的命令行工具
+> **EN**: Compare LLM provider API pricing — Anthropic, OpenAI, DeepSeek, Google, OpenRouter, Mistral. Find the cheapest model for your task in one command.
+>
+> **中文**: 对比各大 LLM 提供商 API 定价的命令行工具。
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
-`api-cost-compare` 是一个轻量级的 CLI 工具，帮助你快速对比 Anthropic、OpenAI、DeepSeek、Google、OpenRouter、Mistral 等主流 LLM 提供商的 API 定价，做出更明智的模型选择。
+`api-cost-compare` 是一个轻量级的 CLI 工具 / A lightweight CLI tool to quickly compare API pricing across major LLM providers (Anthropic, OpenAI, DeepSeek, Google, OpenRouter, Mistral) and make smarter model choices.
 
 ---
 
